@@ -1,0 +1,3 @@
+= ModelHistory
+
+This project records changes to ActiveRecord models.
